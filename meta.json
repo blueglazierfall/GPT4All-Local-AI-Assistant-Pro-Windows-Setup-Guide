@@ -1,0 +1,29 @@
+{
+  "repo": "gpt4all-local-ai-assistant-pro-windows-setup-guide",
+  "product": "GPT4All Local AI Assistant Pro Windows Setup Guide",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "gpt4all-local-ai-assistant",
+    "gpt4all-local-ai-assistant-desktop",
+    "gpt4all-local-ai-assistant-release",
+    "gpt4all-local-ai-assistant-windows",
+    "disk-utility",
+    "file-management",
+    "windows-utility",
+    "desktop-tools",
+    "pc-maintenance",
+    "system-admin",
+    "hardware-info",
+    "driver-management",
+    "windows-11",
+    "windows-10",
+    "desktop-software"
+  ],
+  "site": "unaflore.co",
+  "product_title": "GPT4All Local AI Assistant Pro Windows Setup Guide"
+}
